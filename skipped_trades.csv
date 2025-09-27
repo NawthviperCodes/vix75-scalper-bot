@@ -1,0 +1,1365 @@
+timestamp,strategy,zone_type,zone_price,trend,reason
+2025-09-25T21:09:01.036918,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:11:00.916840,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:11:00.916840,aggressive,supply,69322.95,downtrend,score below threshold (FAST)
+2025-09-25T21:12:00.735497,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:13:02.202006,aggressive,supply,69322.95,downtrend,score below threshold (FAST)
+2025-09-25T21:14:00.827382,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:15:00.729197,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:16:00.775822,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:17:00.797046,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:17:00.797046,aggressive,supply,69322.95,downtrend,score below threshold (FAST)
+2025-09-25T21:18:00.782166,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:19:00.877525,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:20:00.845835,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:20:00.852852,aggressive,supply,69350.12,downtrend,score below threshold (FAST)
+2025-09-25T21:21:00.767158,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:21:00.767158,aggressive,supply,69350.12,downtrend,score below threshold (FAST)
+2025-09-25T21:22:00.781318,aggressive,demand,68997.28,downtrend,score below threshold (FAST)
+2025-09-25T21:22:00.793244,aggressive,supply,69350.12,downtrend,score below threshold (FAST)
+2025-09-25T21:30:00.801817,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:31:00.850350,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:32:00.777128,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:33:00.833446,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:34:00.877077,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:35:00.753020,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:36:00.837214,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:37:00.888343,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T21:38:00.730242,trend_follow,demand,68569.33,downtrend,trend mismatch
+2025-09-25T22:04:00.934595,aggressive,demand,68844.04,downtrend,score below threshold (FAST)
+2025-09-25T22:10:00.773638,aggressive,supply,68982.66,downtrend,score below threshold (FAST)
+2025-09-25T22:11:00.783474,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:13:00.824476,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:15:00.864952,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:16:00.894398,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:17:00.766033,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:18:00.728304,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:19:00.753807,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:19:00.756805,aggressive,supply,69101.15,downtrend,score below threshold (FAST)
+2025-09-25T22:22:00.893549,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:23:00.731926,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:24:00.818555,aggressive,demand,68695.11,downtrend,score below threshold (FAST)
+2025-09-25T22:24:00.823486,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:25:00.833671,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:26:00.804644,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:35:00.816257,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:36:02.293095,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:37:00.820499,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:37:00.823541,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:38:00.783654,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:38:00.783654,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:39:00.970866,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:39:00.970866,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:40:05.560718,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:40:05.560718,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:41:02.399291,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:42:00.892857,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:43:00.722126,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:43:00.725126,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:44:00.724735,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:44:00.724735,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:46:00.766438,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:46:00.782544,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:47:00.872440,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:47:00.872440,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:48:00.745415,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:48:00.745415,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:49:00.697663,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:49:00.697663,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:50:00.798513,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:50:00.801655,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:51:00.804451,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:51:00.807461,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:52:00.724856,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:52:00.727857,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:53:00.748198,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:53:00.751169,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:54:00.815442,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:54:00.815442,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:55:00.780362,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:55:00.780362,aggressive,supply,69147.33,downtrend,score below threshold (FAST)
+2025-09-25T22:56:00.996101,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:57:00.850668,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T22:58:00.743347,aggressive,demand,68533.85,downtrend,score below threshold (FAST)
+2025-09-25T23:21:00.720743,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:23:00.722142,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:24:02.527561,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:52:00.719676,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:53:00.769992,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:54:00.755850,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:54:00.755850,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:55:00.762279,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:55:00.762279,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:56:00.817884,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:56:00.817884,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:57:00.706062,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:58:00.778611,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-25T23:58:00.778611,aggressive,supply,69242.15,downtrend,score below threshold (FAST)
+2025-09-25T23:59:00.930103,aggressive,demand,68735.67,downtrend,score below threshold (FAST)
+2025-09-26T00:04:00.822141,aggressive,supply,69126.82,downtrend,score below threshold (FAST)
+2025-09-26T00:05:00.716092,aggressive,supply,69126.82,downtrend,score below threshold (FAST)
+2025-09-26T00:06:00.799997,aggressive,supply,69126.82,downtrend,score below threshold (FAST)
+2025-09-26T00:07:00.813263,aggressive,supply,69126.82,downtrend,score below threshold (FAST)
+2025-09-26T00:09:00.714800,aggressive,supply,69126.82,downtrend,score below threshold (FAST)
+2025-09-26T00:10:00.684493,aggressive,supply,69126.82,downtrend,score below threshold (FAST)
+2025-09-26T22:02:00.384332,aggressive,supply,70871.22,downtrend,score below threshold (FAST)
+2025-09-26T22:08:00.441756,aggressive,supply,71065.8,downtrend,score below threshold (FAST)
+2025-09-26T22:09:00.465483,aggressive,supply,71065.8,downtrend,score below threshold (FAST)
+2025-09-26T22:10:00.449035,aggressive,demand,70741.07,downtrend,score below threshold (FAST)
+2025-09-26T22:10:00.464980,aggressive,supply,71065.8,downtrend,score below threshold (FAST)
+2025-09-26T22:11:00.443174,aggressive,supply,71065.8,downtrend,score below threshold (FAST)
+2025-09-26T22:12:00.405465,aggressive,supply,71065.8,downtrend,score below threshold (FAST)
+2025-09-26T22:30:00.585712,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:31:00.404088,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:32:00.485219,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:33:00.461832,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:36:00.455135,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:38:00.395200,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:40:00.497326,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:40:00.500292,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:41:00.407753,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:41:00.410703,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:42:00.407113,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:43:00.534183,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:43:00.538244,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:44:00.512124,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:44:00.514149,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:45:00.492125,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:45:00.495634,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:46:00.422309,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:46:00.426844,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:47:00.442466,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:47:00.446022,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:48:00.477230,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:48:00.480194,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:49:00.427671,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:49:00.430672,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:50:01.214928,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:50:01.214928,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:51:07.058364,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:51:07.060360,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:52:03.697327,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:52:03.697327,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:53:00.402418,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:53:00.402418,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:54:00.355972,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:54:00.355972,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:55:00.406890,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:55:00.409894,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:56:00.579677,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:57:00.449592,aggressive,demand,70519.31,downtrend,score below threshold (FAST)
+2025-09-26T22:57:00.449592,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:58:00.409589,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T22:59:01.725813,aggressive,supply,71110.97,downtrend,score below threshold (FAST)
+2025-09-26T23:12:00.381978,aggressive,supply,70996.78,downtrend,score below threshold (FAST)
+2025-09-26T23:14:00.334169,aggressive,supply,70996.78,downtrend,score below threshold (FAST)
+2025-09-26T23:15:00.410560,aggressive,supply,70996.78,downtrend,score below threshold (FAST)
+2025-09-26T23:16:00.404519,aggressive,supply,70996.78,downtrend,score below threshold (FAST)
+2025-09-26T23:17:00.301991,aggressive,supply,70996.78,downtrend,score below threshold (FAST)
+2025-09-26T23:18:00.372352,aggressive,supply,70996.78,downtrend,score below threshold (FAST)
+2025-09-27T00:05:00.268582,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:06:00.343176,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:07:00.437679,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:08:00.363314,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:09:00.363621,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:10:00.343032,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:11:00.325790,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:12:00.304421,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:13:00.303122,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:14:00.381296,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:15:00.403492,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:16:00.313024,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:17:00.317121,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:17:00.317121,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:18:00.336947,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:18:00.336947,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:19:00.343716,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:19:00.343716,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:20:00.286298,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:20:00.286298,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:21:00.353536,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:21:00.361420,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:22:00.326711,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:22:00.342402,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:23:00.316412,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:23:00.320648,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:24:00.307395,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:24:00.311440,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:24:00.314549,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:25:00.342364,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:25:00.342364,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:25:00.352305,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:26:00.348837,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:26:00.364567,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:26:00.370398,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:27:00.337775,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:27:00.353415,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:28:00.353895,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:29:00.348618,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:29:00.348618,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:29:00.348618,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:30:00.434628,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:31:00.321662,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:31:00.321662,aggressive,demand,69535.73,downtrend,score below threshold (FAST)
+2025-09-27T00:31:00.327491,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:32:00.315381,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:33:00.306649,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:34:00.294787,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:35:00.340511,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:36:00.304928,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:37:00.452332,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:38:00.361201,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:39:00.351717,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:40:00.391525,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:40:00.407240,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:41:00.406680,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:42:00.309109,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:42:00.312841,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:42:00.312841,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:43:00.294169,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:43:00.294169,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:43:00.294169,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:44:00.282964,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:44:00.282964,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:45:00.347286,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:45:00.347286,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:46:00.342333,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:46:00.342333,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:46:00.358392,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:47:00.362830,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:48:00.352125,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:48:00.368128,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:49:00.333682,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:49:00.333682,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:49:00.339469,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:50:00.332815,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:50:00.332815,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:50:00.332815,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:51:00.320805,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:51:00.325838,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:52:00.303012,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:52:00.306154,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:52:00.307899,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:53:00.405780,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:53:00.409403,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:53:00.412387,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:54:00.304480,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:56:00.300611,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:56:00.316470,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:57:00.305556,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:57:00.321330,aggressive,demand,69443.7,downtrend,score below threshold (FAST)
+2025-09-27T00:57:00.326727,aggressive,supply,70046.15,downtrend,score below threshold (FAST)
+2025-09-27T00:58:00.344069,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T00:59:00.333547,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:00:00.355480,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:01:00.323444,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:02:00.362854,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:03:00.401883,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:04:00.339542,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:05:00.344937,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:05:00.350338,aggressive,demand,69416.39,downtrend,score below threshold (FAST)
+2025-09-27T01:06:00.305391,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:07:00.416543,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:08:00.332191,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:09:00.401487,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:10:00.293599,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:11:00.299743,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:12:00.385856,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:12:00.385856,aggressive,demand,69416.39,downtrend,score below threshold (FAST)
+2025-09-27T01:13:00.384967,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:13:00.384967,aggressive,demand,69416.39,downtrend,score below threshold (FAST)
+2025-09-27T01:13:00.391718,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:14:00.398279,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:14:00.398279,aggressive,demand,69416.39,downtrend,score below threshold (FAST)
+2025-09-27T01:14:00.407410,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:15:00.352238,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:15:00.352238,aggressive,demand,69416.39,downtrend,score below threshold (FAST)
+2025-09-27T01:16:00.343705,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:16:00.355399,aggressive,demand,69416.39,downtrend,score below threshold (FAST)
+2025-09-27T01:16:00.355399,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:17:00.364652,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:17:00.364652,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:18:00.352357,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:19:00.341539,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:20:00.331172,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:21:00.287167,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:22:00.277585,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:23:00.376371,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:24:00.351671,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:25:00.405321,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:26:00.297749,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:27:00.289429,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:28:00.300804,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:29:00.591087,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:29:00.591087,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:30:00.353555,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:30:00.369538,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:30:00.374547,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:31:00.347422,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:31:00.347422,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:31:00.353686,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:32:00.331655,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:32:00.331655,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:32:00.337912,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:33:00.336522,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:33:00.338336,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:33:00.338336,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:34:00.326114,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:34:00.326114,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:34:00.335348,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:35:00.379156,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:35:00.379156,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:35:00.379156,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:36:00.379586,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:36:00.383983,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:37:00.424198,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:37:00.439368,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:38:00.300263,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:39:00.367422,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:39:00.367422,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:39:00.384304,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:40:00.405897,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:40:00.408296,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:41:00.297522,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:42:00.283947,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:42:00.299678,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:43:00.283222,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:44:00.362815,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:44:00.362815,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:45:00.301061,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:46:00.386820,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:47:00.356604,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:48:00.320535,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:49:00.293596,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:50:00.326610,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:50:00.330102,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:51:00.289598,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:52:00.293171,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:53:00.377923,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:54:00.367257,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:54:00.383352,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:54:00.385576,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:55:00.275705,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:55:00.291850,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:55:00.297341,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:56:00.298061,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:56:00.298061,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:56:00.298061,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:57:00.292928,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:57:00.292928,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:57:00.292928,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T01:58:00.304483,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:58:00.308377,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:58:00.940690,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:58:00.962591,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:59:00.293524,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T01:59:00.293524,aggressive,demand,69075.62,downtrend,score below threshold (FAST)
+2025-09-27T01:59:00.299274,aggressive,supply,69811.36,downtrend,score below threshold (FAST)
+2025-09-27T02:00:01.111321,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:01:00.407629,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:02:00.308302,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:03:00.303747,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:04:00.372352,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:05:00.379302,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:06:00.480184,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:06:00.480184,aggressive,demand,69571.78,downtrend,score below threshold (FAST)
+2025-09-27T02:07:00.405876,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:07:00.422314,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:08:00.281192,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:08:00.281192,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:09:00.349247,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:10:00.389418,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:11:00.344726,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:12:00.288949,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:13:00.370670,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:14:00.345758,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:15:00.358862,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:16:00.324549,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:17:00.331664,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:18:00.328766,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:19:00.309646,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:19:00.309646,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:20:00.314323,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:20:00.314323,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:20:00.314323,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:21:00.297193,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:21:00.302788,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:22:00.372033,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:22:00.372033,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:22:00.383910,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:23:00.377594,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:23:00.377594,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:23:00.383200,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:24:00.349962,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:24:00.349962,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:24:00.357526,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:25:00.355735,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:25:00.355735,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:25:00.355735,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:26:00.361590,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:26:00.361590,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:26:00.369186,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:27:00.331976,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:27:00.334942,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:27:00.340217,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:28:00.356446,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:28:00.356446,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:28:00.356446,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:29:00.329624,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:29:00.329624,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:29:00.341533,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:30:00.381631,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:30:00.398571,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:30:00.402064,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:31:00.372418,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:31:00.388078,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:31:00.393498,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:32:00.360817,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:32:00.360817,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:32:00.360817,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:33:00.369321,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:33:00.369321,aggressive,demand,69326.54,downtrend,score below threshold (FAST)
+2025-09-27T02:33:00.369321,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:34:00.416322,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:34:00.416322,aggressive,supply,69766.5,downtrend,score below threshold (FAST)
+2025-09-27T02:35:00.363859,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:36:00.335132,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:37:00.388097,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:38:00.280065,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:39:00.383660,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:40:00.276975,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:41:00.377752,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:42:00.382568,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:43:00.373044,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:44:00.263634,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:45:00.383633,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:46:00.384670,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:47:00.359560,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:48:00.336611,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:49:00.330357,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:50:00.344523,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:51:00.343700,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:52:00.313481,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:53:00.295538,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:54:00.402946,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:55:00.309026,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:56:00.286911,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:57:00.295453,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:58:00.291163,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T02:59:00.295444,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:00:00.358732,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:01:00.339190,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:02:00.327925,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:03:00.376665,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:04:00.279423,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:05:00.283168,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:06:00.316637,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:07:00.367128,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:08:00.332717,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:09:00.305109,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:10:00.307340,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:10:00.307340,aggressive,demand,68905.23,downtrend,score below threshold (FAST)
+2025-09-27T03:11:00.353379,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:12:00.301044,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:12:00.301044,aggressive,demand,68905.23,downtrend,score below threshold (FAST)
+2025-09-27T03:13:00.323628,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:14:00.312005,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:14:00.312005,aggressive,demand,68905.23,downtrend,score below threshold (FAST)
+2025-09-27T03:15:00.317329,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:16:00.338849,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:17:00.358451,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:18:00.376799,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:19:00.341282,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:20:00.359541,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:21:00.268482,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:21:00.268482,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:22:00.374823,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:22:00.374823,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:23:00.380598,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:23:00.380598,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:24:00.350677,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:24:00.350677,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:25:00.354395,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:25:00.354395,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:26:00.310962,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:26:00.310962,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:27:00.315374,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:27:00.317786,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:28:00.337280,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:28:00.337280,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:29:00.330780,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:29:00.330780,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:30:00.349212,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:30:00.349212,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:31:00.322577,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:31:00.322577,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:32:00.292001,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:32:00.292001,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:33:00.286139,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:33:00.286139,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:34:00.354515,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:34:00.354515,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:35:00.381694,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:35:00.381694,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:36:00.349373,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:36:00.349373,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:37:00.396961,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:37:00.396961,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:38:00.315969,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:38:00.315969,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:39:00.317022,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:39:00.317022,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:40:00.321386,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:40:00.321386,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:41:00.312795,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:41:00.312795,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:42:00.315176,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:42:00.315176,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:43:00.290838,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:43:00.292846,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:44:00.377651,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:44:00.377651,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:44:00.377651,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:45:00.285419,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:45:00.285419,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:46:00.297637,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:46:00.297637,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:46:00.303279,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:47:00.364658,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:47:00.364658,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:47:00.364658,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:48:00.399977,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:48:00.399977,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:48:00.415793,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:49:00.258339,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:49:00.258339,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:49:00.258339,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:50:00.374806,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:50:00.374806,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:50:00.393794,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:51:00.358813,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:51:00.358813,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:51:00.358813,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:52:00.307408,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:52:00.307408,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:52:00.307408,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:53:00.327732,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:53:00.328737,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:53:00.330426,aggressive,demand,68517.07,downtrend,score below threshold (FAST)
+2025-09-27T03:54:00.316401,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:54:00.316401,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:55:00.342893,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:55:00.342893,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:56:00.312240,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:56:00.328342,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:57:00.316867,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:57:00.333011,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:58:00.341020,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:58:00.341020,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T03:59:00.327176,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T03:59:00.327176,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:00:00.346715,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:00:00.346715,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:01:00.320254,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:01:00.320254,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:02:00.338572,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:02:00.338572,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:03:00.365073,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:03:00.365073,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:04:00.305089,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:04:00.305089,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:05:00.345152,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:05:00.345152,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:05:00.345152,aggressive,demand,68366.41,downtrend,score below threshold (FAST)
+2025-09-27T04:06:00.350506,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:06:00.350506,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:06:00.350506,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:07:00.324916,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:07:00.326922,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:07:00.331083,aggressive,demand,68366.41,downtrend,score below threshold (FAST)
+2025-09-27T04:07:00.331473,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:08:00.439802,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:08:00.439802,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:08:00.439802,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:09:00.285988,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:09:00.285988,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:09:00.301622,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:10:00.273505,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:10:00.273505,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:11:00.391425,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:11:00.391425,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:12:00.285197,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:12:00.285197,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:13:00.372112,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:13:00.372112,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:14:00.340887,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:14:00.340887,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:15:00.347211,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:15:00.347211,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:16:00.338188,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:16:00.338188,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:17:00.359205,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:17:00.359205,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:18:00.317550,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:18:00.317550,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:19:00.297441,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:19:00.297441,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:20:00.312834,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:20:00.312834,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:21:00.280313,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:21:00.283271,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:22:00.258656,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:22:00.258656,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:23:00.359125,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:23:00.359125,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:24:00.348269,trend_follow,SUPPLY,68533.85,downtrend,flipped: PA/M5 not ok
+2025-09-27T04:24:00.348269,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:24:00.348269,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:24:00.366116,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:24:00.370114,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:25:00.288068,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:25:00.288068,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:25:00.288068,aggressive,demand,68160.83,downtrend,score below threshold (FAST)
+2025-09-27T04:26:00.261607,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:26:00.261607,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:27:00.364289,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:27:00.364289,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:28:00.274254,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:28:00.274254,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:29:00.362477,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:29:00.362477,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:30:00.283173,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:30:00.299166,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:31:00.264950,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:31:00.264950,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:32:00.332579,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:32:00.332579,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:33:00.315716,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:33:00.315716,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:34:00.288432,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:34:00.288432,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:35:00.294730,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:35:00.294730,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:35:00.294730,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:36:00.407806,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:36:00.407806,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:36:00.412902,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:36:00.417324,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:37:00.447224,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:37:00.447224,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:37:00.447224,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:37:00.457669,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:38:00.348151,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:38:00.348151,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:38:00.356688,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:38:00.360895,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:39:00.347093,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:39:00.347093,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:39:00.347093,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:39:00.347093,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:40:00.336174,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:40:00.336174,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:40:00.352122,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:40:00.355987,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:41:00.330633,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:41:00.330633,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:41:00.330633,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:41:00.339983,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:42:00.315895,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:42:00.315895,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:42:00.327565,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:43:00.287411,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:43:00.287411,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:44:00.435255,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:44:00.435255,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:44:00.435255,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:44:00.450193,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:45:00.330783,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:45:00.330783,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:45:00.330783,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:46:00.337187,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:46:00.337187,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:46:00.352890,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:46:00.355886,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:47:00.326725,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:47:00.326725,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:47:00.326725,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:47:00.343701,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:48:00.314962,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:48:00.314962,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:48:00.328410,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:48:00.331479,aggressive,supply,68607.61,downtrend,score below threshold (FAST)
+2025-09-27T04:49:00.288559,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:49:00.288559,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:50:00.278088,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:50:00.278088,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:51:00.327536,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:51:00.327536,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:52:00.283349,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:52:00.283349,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:53:00.262547,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:53:00.262547,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:54:00.330190,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:54:00.330190,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:55:00.335144,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:55:00.335144,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:56:00.325483,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:56:00.325483,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:57:00.315329,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:57:00.315329,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:58:00.288434,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T04:58:00.288434,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:58:00.288434,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:59:00.358969,trend_follow,SUPPLY,68533.85,downtrend,flipped: PA/M5 not ok
+2025-09-27T04:59:00.358969,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:59:00.358969,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T04:59:00.374624,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T04:59:00.374624,aggressive,demand,68146.28,downtrend,score below threshold (FAST)
+2025-09-27T05:00:00.396454,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:00:00.396454,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:01:00.354216,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:01:00.354216,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:02:00.282598,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:02:00.282598,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:03:00.377669,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:03:00.377669,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:04:00.342276,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:04:00.342276,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:05:00.374444,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:05:00.374444,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:06:00.363863,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:06:00.363863,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:07:00.381364,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:07:00.381364,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:08:00.372603,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:08:00.372603,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:09:00.315443,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:09:00.315443,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:10:00.306993,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:10:00.306993,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:11:00.277027,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:11:00.277027,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:12:00.313774,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:12:00.313774,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:13:00.302826,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:13:00.302826,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:14:00.277546,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:14:00.277546,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:15:00.363389,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:15:00.379316,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:16:00.367943,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:16:00.367943,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:17:00.357403,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:17:00.357403,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:18:00.330219,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:18:00.330219,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:19:00.304782,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:19:00.304782,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:20:00.326198,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:20:00.326198,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:21:00.297912,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:21:00.297912,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:22:00.270742,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:22:00.270742,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:23:00.261543,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:23:00.261543,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:24:00.348550,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:24:00.348550,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:25:00.359268,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:25:00.359268,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:26:00.309057,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:26:00.309057,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:26:00.324908,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:27:00.359108,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:27:00.359108,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:27:00.359108,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:28:00.262131,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:28:00.272061,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:28:00.272061,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:29:00.326687,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:29:00.326687,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:29:00.326687,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:30:00.314828,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:30:00.314828,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:30:00.325614,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:31:00.289854,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:31:00.289854,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:31:00.289854,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:32:00.293336,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:32:00.293336,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:32:00.304164,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:33:00.279430,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:33:00.279430,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:33:00.285195,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:34:00.354034,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:34:00.354034,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:35:00.387261,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:35:00.389762,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:35:00.398459,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:36:00.265448,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:36:00.265448,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:36:00.265448,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:37:00.425546,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:37:00.425546,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:38:00.294693,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:38:00.294693,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:38:00.294693,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:39:00.400313,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:39:00.400313,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:39:00.400313,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:40:00.271658,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:40:00.271658,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:40:00.287345,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:41:00.383989,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:41:00.383989,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:41:00.388532,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:42:00.281475,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:42:00.281475,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:42:00.281475,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:43:00.272060,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:43:00.272060,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:43:00.272060,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:44:00.347785,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:44:00.347785,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:44:00.347785,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:45:00.395036,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:45:00.395036,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:45:00.395036,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:46:00.271776,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:46:00.271776,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:46:00.277886,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:47:00.340527,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:47:00.340527,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:47:00.356257,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:48:00.364210,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:48:00.364210,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:48:00.364210,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:49:00.352297,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:49:00.352297,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:49:00.363407,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:50:00.372777,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:50:00.372777,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:51:00.328934,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:51:00.328934,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:51:00.344729,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:51:00.348682,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:52:00.272997,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:52:00.272997,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:52:00.272997,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:52:00.288519,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:53:00.373623,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:53:00.373623,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:53:00.373623,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:53:00.390412,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:54:00.266946,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:54:00.266946,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:54:00.266946,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:54:00.273557,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:55:00.366024,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:55:00.366024,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:55:00.366024,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:55:00.379614,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:56:00.288784,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:56:00.288784,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:56:00.293190,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:57:00.269067,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:57:00.269067,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:57:00.280839,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:57:00.284917,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:58:00.369463,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:58:00.369463,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:58:00.376876,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:58:00.380727,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T05:59:00.357102,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T05:59:00.357102,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T05:59:00.357102,aggressive,demand,67878.25,downtrend,score below threshold (FAST)
+2025-09-27T05:59:00.372257,aggressive,supply,68687.24,downtrend,score below threshold (FAST)
+2025-09-27T06:00:00.372595,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:00:00.372595,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:01:00.394857,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:01:00.394857,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:02:00.276311,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:02:00.276311,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:03:00.283487,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:03:00.284503,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:04:00.342713,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:04:00.342713,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:05:00.358084,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:05:00.358084,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:06:00.279759,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:06:00.279759,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:07:00.361477,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:07:00.361477,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:08:00.309471,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:08:00.309471,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:08:00.309471,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:09:00.345787,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:09:00.345787,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:10:00.334737,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:10:00.334737,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:10:00.334737,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:11:00.274440,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:11:00.274440,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:11:00.290206,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:12:00.310163,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:12:00.310163,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:12:00.310163,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:13:00.341026,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:13:00.341026,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:13:00.347852,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:14:00.275275,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:14:00.275275,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:14:00.290965,aggressive,demand,68257.82,downtrend,score below threshold (FAST)
+2025-09-27T06:14:00.295338,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:15:00.279159,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:15:00.279159,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:15:00.279159,aggressive,demand,68257.82,downtrend,score below threshold (FAST)
+2025-09-27T06:16:00.348966,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:16:00.348966,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:16:00.351509,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:17:00.308636,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:17:00.308636,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:17:00.324469,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:18:00.281608,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:18:00.281608,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:18:00.297393,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:19:00.445355,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:19:00.445355,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:19:00.445355,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:20:00.342035,trend_follow,SUPPLY,68533.85,downtrend,flipped: PA/M5 not ok
+2025-09-27T06:20:00.342035,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:20:00.342035,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:20:00.351143,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:20:00.355154,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:21:00.295470,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:21:00.297942,aggressive,demand,68219.38,downtrend,score below threshold (FAST)
+2025-09-27T06:21:00.302025,aggressive,supply,68510.33,downtrend,score below threshold (FAST)
+2025-09-27T06:22:00.344152,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:22:00.345160,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:23:00.307613,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:23:00.307613,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:24:00.335787,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:24:00.335787,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:25:00.327935,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:25:00.327935,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:26:00.378095,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:26:00.378095,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:27:00.378351,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:27:00.378351,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:28:00.366911,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:28:00.366911,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:29:00.355729,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:29:00.371659,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:30:00.424523,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:30:00.424523,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:31:00.385212,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:31:00.385212,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:32:00.325342,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:32:00.325342,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:33:00.360928,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:33:00.360928,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:34:00.268411,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:34:00.268411,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:35:00.279386,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:35:00.279386,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:36:00.249479,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:36:00.265515,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:37:00.392039,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:37:00.392039,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:38:00.307362,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:38:00.307362,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:39:00.283215,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:39:00.283215,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:40:00.285041,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:40:00.285041,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:41:00.374061,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:41:00.374061,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:42:00.264942,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:42:00.264942,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:43:00.318398,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:43:00.318398,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:44:00.285611,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:44:00.285611,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:45:00.374496,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:45:00.374496,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:46:00.277934,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:46:00.277934,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:47:00.259971,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:47:00.259971,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:48:00.311910,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:48:00.327586,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:49:00.284871,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:49:00.284871,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:50:00.356109,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:50:00.356109,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:51:00.314471,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:51:00.314471,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:52:00.382979,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:52:00.382979,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:53:00.274741,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:53:00.274741,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:54:00.361890,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:54:00.361890,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:55:00.334385,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:55:00.334385,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:56:00.355802,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:56:00.355802,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:57:00.366555,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:57:00.376512,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:58:00.282123,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:58:00.282123,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T06:59:00.272010,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T06:59:00.272010,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:00:00.381320,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:00:00.382337,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:01:00.349768,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:01:00.349768,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:02:00.306101,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:02:00.306101,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:03:00.329602,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:03:00.329602,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:04:00.316890,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:04:00.316890,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:05:00.332272,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:05:00.332272,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:06:00.312627,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:06:00.312627,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:07:00.409951,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:07:00.409951,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:08:00.354727,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:08:00.354727,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:09:00.327646,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:09:00.327646,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:10:00.327566,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:10:00.334046,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:11:00.309346,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:11:00.309346,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:12:00.359337,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:12:00.359337,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:12:00.369767,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:12:00.372876,aggressive,supply,67612.58,downtrend,score below threshold (FAST)
+2025-09-27T07:13:00.301288,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:13:00.301288,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:13:00.313303,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:14:00.282120,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:14:00.282120,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:14:00.282120,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:15:00.361229,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:15:00.361229,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:15:00.361229,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:16:00.365396,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:16:00.365396,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:17:00.339268,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:17:00.355288,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:17:00.355288,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:18:00.345441,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:18:00.361489,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:19:00.317406,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:19:00.317406,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:19:00.317406,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:20:00.308080,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:20:00.308080,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:20:00.308080,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:21:00.343776,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:21:00.343776,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:21:00.357885,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:22:00.317117,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:22:00.317117,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:22:00.317117,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:23:00.307265,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:23:00.307265,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:23:00.319736,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:24:00.303914,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:24:00.303914,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:24:00.303914,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:24:00.303914,aggressive,supply,67612.58,downtrend,score below threshold (FAST)
+2025-09-27T07:25:00.303020,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:25:00.303020,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:25:00.318133,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:26:00.323309,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:26:00.323309,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:26:00.327278,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:27:00.279615,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:27:00.279615,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:27:00.295585,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:28:00.382143,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:28:00.382143,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:28:00.382143,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:29:00.385728,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:29:00.386692,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:30:00.409364,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:30:00.409364,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:31:00.293820,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:31:00.293820,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:31:00.293820,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:32:00.386930,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:32:00.386930,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:33:00.280281,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:33:00.280281,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:33:00.295932,aggressive,demand,67053.17,downtrend,score below threshold (FAST)
+2025-09-27T07:34:00.359369,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:34:00.359369,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:35:00.338123,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:35:00.338123,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:36:00.295211,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:36:00.295211,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:37:00.378666,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:37:00.378666,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:38:00.339523,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:38:00.339523,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:39:00.328967,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:39:00.330016,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:40:00.333877,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:40:00.333877,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:41:00.291204,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:41:00.291204,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:42:00.295418,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:42:00.295418,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:43:00.285952,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:43:00.285952,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:44:00.282663,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:44:00.282663,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:45:00.314658,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:45:00.314658,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:46:00.299746,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:46:00.299746,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:47:00.387632,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:47:00.387632,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:48:00.257682,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:48:00.257682,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:49:00.372839,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:49:00.373208,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:50:00.356863,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:50:00.357860,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:51:00.395413,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:51:00.395413,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:52:00.281114,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:52:00.281114,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:53:00.339167,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:53:00.339167,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:54:00.397991,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:54:00.397991,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:55:00.300880,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:55:00.301983,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:56:00.359156,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:56:00.360164,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:57:00.269280,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:57:00.269280,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:58:00.326769,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:58:00.326769,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T07:59:00.445990,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T07:59:00.447196,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:00:00.305954,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:00:00.305954,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:01:00.308551,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:01:00.308551,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:02:00.363759,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:02:00.364721,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:03:00.262805,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:03:00.262805,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:04:00.280582,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:04:00.280582,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:05:00.349987,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:05:00.350983,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:06:00.335531,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:06:00.336574,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:07:00.370767,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:07:00.371642,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:08:00.317159,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:08:00.318155,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:09:00.298633,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:09:00.298633,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:10:00.290837,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:10:00.290837,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:11:00.281239,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:11:00.281239,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:12:00.255807,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:12:00.255807,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:13:00.344491,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:13:00.344491,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:14:00.318212,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:14:00.318212,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:15:00.294591,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:15:00.294591,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:16:00.410689,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:16:00.410689,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:17:00.308617,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:17:00.308617,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:18:00.295153,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:18:00.295153,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:19:00.289715,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:19:00.289715,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:20:00.275261,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:20:00.275261,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:20:00.275261,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:21:00.376306,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:21:00.376306,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:22:00.347467,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:23:00.360021,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:23:00.360021,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:24:00.318747,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:24:00.318747,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:24:00.318747,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:25:00.277961,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:25:00.277961,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:25:00.277961,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:26:00.383264,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:26:00.390029,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:27:00.365062,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:27:00.366063,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:27:00.370077,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:28:00.338613,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:28:00.340614,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:29:00.408509,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:29:00.409507,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:30:00.345800,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:30:00.346791,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:30:00.350763,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:31:00.351912,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:31:00.367631,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:32:00.368779,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:32:00.369778,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:33:00.379231,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:33:00.380194,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:33:00.387981,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:34:00.398313,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:34:00.400313,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:34:00.403313,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:35:00.375963,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:35:00.376920,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:35:00.380917,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:36:00.359541,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:36:00.360531,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:36:00.365497,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:37:00.461607,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:37:00.462600,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:37:00.466766,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:38:00.293201,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:38:00.294201,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:38:00.297203,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:39:00.334524,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:39:00.335522,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:39:00.335522,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:40:00.336873,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:41:00.342920,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:42:00.396292,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:42:00.396292,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:43:00.421909,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:43:00.421909,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:44:00.580674,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:44:00.580674,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:45:00.391169,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:45:00.392176,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:46:00.373478,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:46:00.375471,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:47:00.665199,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:47:00.666199,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:48:00.908487,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:48:00.909471,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:49:00.349942,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:49:00.350940,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:50:00.471353,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:50:00.472357,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:51:00.407019,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:51:00.408076,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:52:00.431876,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:52:00.432910,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:53:01.439068,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:53:01.440067,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:54:00.435894,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:54:00.437436,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:55:00.478210,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:55:00.479210,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:56:00.305615,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:56:00.305615,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:56:00.305615,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:57:00.345751,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:57:00.346753,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:57:00.349753,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:58:00.300379,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:58:00.301350,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:58:00.306028,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T08:59:00.382959,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T08:59:00.383926,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T08:59:00.387186,aggressive,demand,68552.45,downtrend,score below threshold (FAST)
+2025-09-27T09:00:00.387638,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:00:00.388637,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:01:00.322310,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:01:00.322310,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:02:00.414500,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:02:00.415496,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:03:00.331072,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:03:00.332348,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:04:00.273736,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:04:00.273736,trend_follow,SUPPLY,69386.01,downtrend,flipped: PA/M5 not ok
+2025-09-27T09:04:00.273736,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:05:00.298139,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:05:00.299181,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:06:00.312254,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:06:00.313344,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:07:00.396983,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:07:00.397984,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:08:00.321125,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:08:00.321125,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:09:00.435379,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:09:00.436447,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:10:00.351769,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:10:00.351769,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:11:00.445438,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:11:00.445438,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:12:00.307211,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:12:00.308209,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:13:00.289408,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:13:00.289408,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:14:00.397862,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:14:00.397862,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:15:00.384089,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:15:00.384089,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:16:00.312109,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:16:00.313109,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:17:00.356807,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:17:00.357811,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:18:00.312939,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:18:00.313898,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:19:00.282007,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:19:00.282007,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:20:00.383684,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:20:00.383684,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:21:00.404638,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:21:00.405604,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:22:00.349964,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:22:00.349964,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:23:00.305268,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:23:00.305268,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:24:00.274070,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:24:00.274070,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:25:00.289025,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:25:00.289025,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:26:00.798341,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:26:00.798341,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:27:00.335565,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:27:00.335565,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:28:00.435959,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:28:00.438311,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:29:00.316742,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:29:00.317723,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:30:00.347146,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:30:00.347146,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:31:00.342813,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:31:00.342813,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:32:00.432233,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:32:00.433233,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:33:00.362301,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:33:00.363300,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:34:00.334435,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:34:00.335435,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:35:00.460937,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:35:00.462288,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:36:00.374889,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:36:00.376850,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:37:00.353165,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:37:00.354167,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:38:00.343062,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:38:00.344063,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-09-27T09:39:00.341711,trend_follow,demand,68533.85,downtrend,trend mismatch
+2025-09-27T09:39:00.342712,trend_follow,demand,69386.01,downtrend,trend mismatch

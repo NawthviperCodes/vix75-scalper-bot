@@ -1,0 +1,5 @@
+timestamp,strategy,side,entry_reason,zone_price,entry_price,sl,tp,lot_size,exit_price,exit_time,profit,result
+2025-09-26 22:13:04,aggressive,sell,FAST score=4,71065.8,70674.82,71006.10443768643,70012.25112462716,9.999,,,,
+2025-09-26 22:29:04,aggressive,sell,FAST score=4,71110.97,70849.07,71278.68243606717,69989.84512786567,9.999,,,,
+2025-09-26 22:59:03,aggressive,buy,FAST score=4,70519.31,70760.62,70413.91398041334,71454.0320391733,9.999,,,,
+2025-09-27 01:58:03,aggressive,buy,flipped DEMAND instant,69811.36,69450.42,69182.77068540064,69985.71862919872,9.999,,,,
