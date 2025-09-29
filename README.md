@@ -17,25 +17,6 @@ It monitors market zones, evaluates price-action/indicator confluence, and place
   Trade signals, order confirmations, and daily summaries.
 - **MetaTrader 5 Integration**  
   Uses real-time market data and order execution.
-
----
-
-## 📂 Project Structure
-
-vix75-scalper-bot/
-│
-├─ src/
-│ ├─ main.py # GUI launcher & real-time loop
-│ ├─ scalper_strategy_engine.py # Core strategy logic
-│ ├─ trade_decision_engine.py # Signal generation
-│ ├─ trade_executor.py # Order placement & trailing stops
-│ └─ telegram_notifier.py # Telegram alerts (uses env vars)
-│
-├─ .env.example # Example of required secrets
-├─ requirements.txt
-└─ README.md
-
-
 ---
 
 ## 🛠 Installation
@@ -47,4 +28,3 @@ vix75-scalper-bot/
 
 Install dependencies
 
-pip install -r requirements.txt
