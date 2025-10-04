@@ -463,16 +463,21 @@ def monitor_and_trade(strategy_mode=None, fixed_lot=None):
             pass
 
         # Place order with one retry for transient failures/slippage
+        # Place order with one retry for transient failures/slippage
         try:
-            result = place_order_at_zone(SYMBOL, side, lot, sl, tp, MAGIC, zone['price'])
+            zone_price = zone if isinstance(zone, (int, float)) else zone['price']
+            result = place_order_at_zone(SYMBOL, side, lot, sl, tp, MAGIC, zone_price)
             # If no result or failed retcode, retry once
             if result is None or getattr(result, 'retcode', None) != mt5.TRADE_RETCODE_DONE:
-                # small pause could be added here if desired (avoid sleeping in main loop if not wanted)
                 try:
                     send_telegram_message("⚠️ Order failed first attempt — retrying once...")
                 except Exception:
                     pass
-                result = place_order_at_zone(SYMBOL, side, lot, sl, tp, MAGIC, zone['price'])
+                # Use same safe handling for retry
+                zone_price = zone if isinstance(zone, (int, float)) else zone['price']
+                result = place_order_at_zone(SYMBOL, side, lot, sl, tp, MAGIC, zone_price)
+                
+                
         except TypeError as e:
             print(f"[ERROR] Order placement failed: {e}")
             send_telegram_message("❌ Order placement failed: check your trade_executor function definition")
