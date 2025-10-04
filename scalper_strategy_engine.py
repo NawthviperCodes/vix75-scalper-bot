@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from zone_detector import detect_zones, detect_fast_zones
 from trade_decision_engine import trade_decision_engine
 from telegram_notifier import send_telegram_message
-from trade_executor import place_order, trail_sl
+from trade_executor import place_order, trail_sl,place_order_at_zone
 from performance_tracker import send_daily_summary
 from trade_logger import log_pending_trade, update_trade_result
 import pytz
@@ -18,14 +18,14 @@ from symbol_info_helper import get_lot_constraints
 #   CONFIG & GLOBAL STATE
 # ============================
 SYMBOL = "Volatility 75 Index"
-TIMEFRAME_ZONE = mt5.TIMEFRAME_H1
+TIMEFRAME_ZONE = mt5.TIMEFRAME_M15  # Update zones every 15 minutes
 TIMEFRAME_ENTRY = mt5.TIMEFRAME_M1
 TIMEFRAME_CONFIRM = mt5.TIMEFRAME_M5
 ZONE_LOOKBACK = 100
 SL_BUFFER = 15000
 TP_RATIO = 2
 MAGIC = 77775
-CHECK_RANGE = 30000
+CHECK_RANGE = 5000
 MIN_LOT = 0.001
 
 # Runtime state
@@ -464,7 +464,7 @@ def monitor_and_trade(strategy_mode=None, fixed_lot=None):
 
         # Place order with one retry for transient failures/slippage
         try:
-            result = place_order(SYMBOL, side, lot, sl, tp, MAGIC)
+            result = place_order_at_zone(SYMBOL, side, lot, sl, tp, MAGIC, zone['price'])
             # If no result or failed retcode, retry once
             if result is None or getattr(result, 'retcode', None) != mt5.TRADE_RETCODE_DONE:
                 # small pause could be added here if desired (avoid sleeping in main loop if not wanted)
@@ -472,7 +472,7 @@ def monitor_and_trade(strategy_mode=None, fixed_lot=None):
                     send_telegram_message("⚠️ Order failed first attempt — retrying once...")
                 except Exception:
                     pass
-                result = place_order(SYMBOL, side, lot, sl, tp, MAGIC)
+                result = place_order_at_zone(SYMBOL, side, lot, sl, tp, MAGIC, zone['price'])
         except TypeError as e:
             print(f"[ERROR] Order placement failed: {e}")
             send_telegram_message("❌ Order placement failed: check your trade_executor function definition")

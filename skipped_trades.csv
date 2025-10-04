@@ -1363,3 +1363,798 @@ timestamp,strategy,zone_type,zone_price,trend,reason
 2025-09-27T09:38:00.344063,trend_follow,demand,69386.01,downtrend,trend mismatch
 2025-09-27T09:39:00.341711,trend_follow,demand,68533.85,downtrend,trend mismatch
 2025-09-27T09:39:00.342712,trend_follow,demand,69386.01,downtrend,trend mismatch
+2025-10-04T14:31:46.360139,aggressive,supply,61906.0,downtrend,score below threshold (FAST)
+2025-10-04T14:31:46.794185,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:31:46.811490,aggressive,supply,61906.0,downtrend,score below threshold (FAST)
+2025-10-04T14:31:48.035877,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:31:48.038914,aggressive,demand,61503.22,downtrend,score below threshold (FAST)
+2025-10-04T14:32:00.654609,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:32:00.660560,aggressive,demand,61503.22,downtrend,score below threshold (FAST)
+2025-10-04T14:32:00.662599,aggressive,supply,61906.0,downtrend,score below threshold (FAST)
+2025-10-04T14:33:00.488258,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:33:00.492224,aggressive,demand,61503.22,downtrend,score below threshold (FAST)
+2025-10-04T14:33:00.494225,aggressive,supply,61906.0,downtrend,score below threshold (FAST)
+2025-10-04T14:34:00.294365,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:34:00.297329,aggressive,supply,61906.0,downtrend,score below threshold (FAST)
+2025-10-04T14:35:00.305804,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:35:00.306810,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:35:00.310807,aggressive,supply,61906.0,downtrend,score below threshold (FAST)
+2025-10-04T14:36:00.621757,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:36:00.621757,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:37:00.394306,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:37:00.394306,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:38:00.295497,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:38:00.295497,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:39:25.477025,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:39:25.477988,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:40:05.111958,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:40:05.113919,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:41:01.989592,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:41:01.990601,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:42:01.748849,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:42:01.751852,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:43:00.975853,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:43:00.975853,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:44:07.626652,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:44:07.627656,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:45:00.418844,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:45:00.419849,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:46:00.548373,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:46:00.549369,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:47:00.710770,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:47:00.710770,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:48:00.633033,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:48:00.633974,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:48:00.635977,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:49:03.562265,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:49:03.562265,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:49:03.562265,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:50:00.281619,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:50:00.281619,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:50:00.281619,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:51:01.256531,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:51:01.272393,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:51:01.272393,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:52:02.084874,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:52:02.084874,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:52:02.084874,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:53:00.512213,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:53:00.512213,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:53:00.512213,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:54:01.101171,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:54:01.101171,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:54:01.101171,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:55:01.190956,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:55:01.190956,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:55:01.190956,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:56:08.402432,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:56:08.402432,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:56:08.402432,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:57:00.613787,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:57:00.615797,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:57:00.615797,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:58:08.240952,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:58:08.240952,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:58:08.240952,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T14:59:00.272837,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T14:59:00.273816,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T14:59:00.275797,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:00:00.489930,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:00:00.490931,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:00:00.491932,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:01:02.405539,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:01:02.406573,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:01:02.407589,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:02:00.545711,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:02:00.546751,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:02:00.548715,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:03:00.359600,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:03:00.359600,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:03:00.359600,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:04:00.295811,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:04:00.295811,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:04:00.295811,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:05:00.296593,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:05:00.312689,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:05:00.312689,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:06:00.244243,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:06:00.244243,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:06:00.244243,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:06:00.260050,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:07:00.426771,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:07:00.426771,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:07:00.426771,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:07:00.426771,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:08:00.467326,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:08:00.467326,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:08:00.467326,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:08:00.467326,aggressive,demand,61234.42,downtrend,score below threshold (FAST)
+2025-10-04T15:09:00.294533,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:09:00.294533,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:09:00.294533,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:09:00.294533,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:10:00.742264,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:10:00.742264,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:10:00.742264,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:10:00.757973,aggressive,demand,61234.42,downtrend,score below threshold (FAST)
+2025-10-04T15:10:00.760478,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:11:01.365394,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:11:01.365394,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:11:01.365394,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:11:01.381215,aggressive,demand,61234.42,downtrend,score below threshold (FAST)
+2025-10-04T15:12:00.272542,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:12:00.272542,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:12:00.272542,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:13:00.365947,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:13:00.365947,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:13:00.365947,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:13:00.365947,aggressive,demand,61234.42,downtrend,score below threshold (FAST)
+2025-10-04T15:13:00.365947,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:14:00.271967,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:14:00.271967,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:14:00.271967,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:14:00.271967,aggressive,demand,61234.42,downtrend,score below threshold (FAST)
+2025-10-04T15:14:00.271967,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:15:00.545273,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:15:00.547268,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:15:00.548246,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:15:00.552246,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:16:18.218087,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:16:18.218087,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:16:18.218087,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:16:18.234124,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:17:00.273048,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:17:00.273048,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:17:00.289810,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:18:02.741480,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:18:02.741480,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:18:02.741480,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:19:00.276480,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:19:00.276480,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:19:00.276480,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:19:00.276480,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:20:01.241367,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:20:01.241367,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:20:01.241367,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:20:01.241367,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:21:00.248068,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:21:00.248068,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:21:00.248068,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:22:00.257237,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:22:00.257237,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:22:00.257237,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:22:00.257237,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:22:00.267054,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:23:00.344926,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:23:00.344926,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:23:00.344926,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:24:01.859333,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:24:01.859333,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:24:01.859333,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:25:00.263128,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:25:00.264131,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:25:00.265132,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:25:00.268141,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:26:00.795106,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:26:00.795106,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:26:00.797115,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:26:00.799123,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:26:00.802882,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:27:00.273070,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:27:00.273070,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:27:00.273070,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:27:00.273070,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:28:00.350449,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:28:00.350449,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:28:00.350449,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:28:00.350449,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:29:09.421389,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:29:09.421389,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:29:09.421389,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:30:00.292259,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:30:00.293263,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:30:00.294224,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:31:00.294856,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:31:00.294856,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:31:00.294856,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:32:00.444355,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:32:00.444355,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:32:00.444355,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:33:00.397139,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:33:00.398126,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:33:00.400098,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:34:00.307912,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:34:00.308914,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:35:00.309027,trend_follow,SUPPLY,61396.01,downtrend,flipped: PA/M5 not ok
+2025-10-04T15:35:00.309027,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:35:00.309027,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:35:00.309027,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:35:00.325669,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:35:00.325669,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:35:00.325669,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:36:00.414477,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:36:00.416888,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:37:00.248258,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:37:00.249246,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:38:00.245749,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:38:00.261493,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:39:00.284096,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:39:00.285094,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:39:00.287054,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:40:03.723927,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:40:03.724891,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:40:03.725896,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:41:00.770409,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:41:00.771356,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:41:00.772353,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:41:00.775355,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:41:00.777393,aggressive,supply,61376.44,downtrend,score below threshold (FAST)
+2025-10-04T15:42:00.557787,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:42:00.558809,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:42:00.559747,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:42:00.562751,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:43:00.236472,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:43:00.236472,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:43:00.236472,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:43:00.236472,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:44:00.293715,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:44:00.293715,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:44:00.293715,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:44:00.303540,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:45:00.305278,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:45:00.305278,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:45:00.305278,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:46:00.221681,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:46:00.221681,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:46:00.225806,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:46:00.228842,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:47:00.331811,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:47:00.331811,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:47:00.336331,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:47:00.344995,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:47:00.349196,aggressive,supply,61511.42,downtrend,score below threshold (FAST)
+2025-10-04T15:48:00.652040,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:48:00.653032,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:48:00.654000,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:48:00.658005,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:48:00.660028,aggressive,supply,61511.42,downtrend,score below threshold (FAST)
+2025-10-04T15:49:00.709145,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:49:00.709145,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:49:00.709145,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:49:00.725012,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:49:00.725012,aggressive,supply,61511.42,downtrend,score below threshold (FAST)
+2025-10-04T15:50:00.274159,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:50:00.274159,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:50:00.276521,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:50:00.279814,aggressive,demand,61056.06,downtrend,score below threshold (FAST)
+2025-10-04T15:51:00.324718,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:51:00.325719,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:51:00.326721,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:52:02.244314,trend_follow,demand,61396.01,downtrend,trend mismatch
+2025-10-04T15:52:02.244314,trend_follow,demand,61204.78,downtrend,trend mismatch
+2025-10-04T15:52:02.244314,trend_follow,demand,60814.36,downtrend,trend mismatch
+2025-10-04T15:53:12.630010,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:53:12.630010,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:53:12.630010,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:53:12.630010,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:53:12.633934,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:53:12.633934,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T15:53:12.636501,aggressive,demand,61056.06,downtrend,directional filter (downtrend)
+2025-10-04T15:54:00.634383,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:54:00.634383,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:54:00.634383,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:54:00.634383,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:54:00.637841,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:54:00.637841,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T15:55:00.377772,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:55:00.377772,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:55:00.377772,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:55:00.377772,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:55:00.377772,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:55:00.377772,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T15:56:00.290271,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:56:00.290271,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:56:00.290271,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:56:00.290271,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:56:00.290271,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:56:00.290271,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T15:57:00.219742,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:57:00.219742,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:57:00.221750,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:57:00.221750,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:57:00.221750,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:57:00.221750,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T15:58:42.516826,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:58:42.516826,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:58:42.516826,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:58:42.516826,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:58:42.516826,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:58:42.516826,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T15:59:00.284069,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T15:59:00.284069,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T15:59:00.284069,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T15:59:00.284069,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T15:59:00.284069,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T15:59:00.284069,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:00:00.722708,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:01:00.279115,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.565404,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:02:00.577292,aggressive,demand,61587.53,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.313380,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.313380,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.316774,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.316774,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.316774,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.316774,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.316774,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:03:00.324109,aggressive,supply,61681.47,downtrend,score below threshold (FAST)
+2025-10-04T16:04:00.387928,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:04:00.387928,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:04:00.387928,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:04:00.387928,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:04:00.387928,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:04:00.387928,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:04:00.387928,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.300971,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.300971,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.316891,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.316891,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.316891,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.316891,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:05:00.316891,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.631978,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:06:00.642315,aggressive,supply,61697.47,downtrend,score below threshold (FAST)
+2025-10-04T16:07:00.263497,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:07:00.263497,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:07:00.263497,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:07:00.263497,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:07:00.275141,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:07:00.275141,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:07:00.275141,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.120530,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.137122,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:08:02.140164,aggressive,supply,61697.47,downtrend,score below threshold (FAST)
+2025-10-04T16:09:05.531856,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.531856,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.531856,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.531856,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.531856,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.531856,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.531856,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.542439,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:09:05.544452,aggressive,supply,61697.47,downtrend,score below threshold (FAST)
+2025-10-04T16:10:00.970157,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.970157,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.970157,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.970157,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.970157,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.970157,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.970157,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.984145,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:10:00.986157,aggressive,supply,61697.47,downtrend,score below threshold (FAST)
+2025-10-04T16:11:01.344615,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.344615,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.344615,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.344615,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.344615,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.344615,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.344615,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:11:01.353418,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:12:00.552902,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.279892,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.279892,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.296023,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.296023,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.296023,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.296023,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:13:00.296023,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:14:00.342120,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:15:00.270354,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:16:00.335699,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.333824,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.333824,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.349984,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.349984,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.349984,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.349984,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:17:00.349984,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:18:02.172332,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.316705,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:19:00.324190,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.429719,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.429719,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.429719,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.429719,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.429719,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.435474,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:20:00.435474,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:21:00.238047,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:22:00.218835,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:23:03.398043,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:24:18.139787,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:25:08.850446,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:26:00.242846,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:27:29.528264,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.416962,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.432893,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.432893,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.432893,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.432893,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.432893,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:28:20.432893,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.718388,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.718388,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.718388,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.734097,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.734097,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.734097,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:29:02.734097,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.438224,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.438224,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.438224,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.438224,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.438224,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.456115,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:30:00.456115,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:31:37.098133,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:32:01.977458,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:33:24.076864,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.813988,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.813988,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.820673,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.822681,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.823679,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.824681,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:34:09.825683,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.134405,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.134405,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.134405,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.134405,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.134405,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.134405,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:35:23.150100,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:36:11.229869,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.463634,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.465633,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.466630,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.467629,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.468632,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.470630,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:37:20.471632,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.879939,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.879939,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.879939,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.879939,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.879939,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.879939,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:38:05.887871,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.735018,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.736023,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.737020,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.738020,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.739017,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.740020,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:39:24.741019,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.293142,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.294144,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.295145,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.296143,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.297142,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.298146,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:40:00.298146,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.359989,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.360955,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.361960,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.362995,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.363992,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.364991,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:41:00.365956,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.256669,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.257665,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.258629,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.260421,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.261647,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.262647,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:42:00.264748,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:44:36.999745,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:44:37.000745,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:44:37.001742,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:44:37.002742,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:44:37.003747,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:44:37.003747,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:44:37.004742,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.804744,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.805702,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.806702,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.807704,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.807704,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.808738,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:45:05.809739,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.883359,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.884323,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.885323,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.886320,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.887322,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.888319,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:46:01.889322,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.339317,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.340320,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.341317,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.342335,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.343317,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.344317,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:47:00.345317,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.313962,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.314956,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.315967,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.316962,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.317959,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.317959,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:49:22.318958,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.276264,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.277260,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.279261,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.279261,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.280266,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.281261,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.281261,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.283263,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:50:05.285263,aggressive,supply,62101.84,downtrend,score below threshold (FAST)
+2025-10-04T16:51:03.331183,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.334179,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.336489,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.337555,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.339555,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.340558,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.342558,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:51:03.346555,aggressive,demand,61462.43,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.290957,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.291949,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.292922,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.292922,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.294061,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.295255,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.295255,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:52:00.299211,aggressive,supply,62101.84,downtrend,score below threshold (FAST)
+2025-10-04T16:53:00.239073,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.240108,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.241073,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.241073,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.242071,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.243073,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.244070,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:53:00.247582,aggressive,supply,62101.84,downtrend,score below threshold (FAST)
+2025-10-04T16:54:11.241729,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.243068,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.244265,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.244265,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.245478,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.246478,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.247478,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:54:11.253100,aggressive,supply,62101.84,downtrend,score below threshold (FAST)
+2025-10-04T16:55:01.612210,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:55:01.613210,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:55:01.614219,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:55:01.615214,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:55:01.616213,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:55:01.617214,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:55:01.618217,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.371324,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.373371,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.375342,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.375342,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.376328,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.377325,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:56:00.378327,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:57:00.397870,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.662611,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.662611,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.662611,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.662611,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.662611,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.662611,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:58:00.667272,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T16:59:00.365050,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:00:04.639787,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.140660,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.140660,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.140660,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.140660,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.143944,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.143944,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:01:05.143944,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.424575,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.425581,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.426541,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.427542,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.428542,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.428542,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:02:03.429581,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.437613,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.437613,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.438615,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.439614,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.440614,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.441616,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:03:00.442618,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.166271,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.167234,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.168233,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.169233,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.170232,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.171260,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.172232,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:04:05.174232,aggressive,demand,61770.76,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.190323,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.191303,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.192281,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.193271,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.194271,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.195271,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.196291,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.198271,aggressive,demand,61770.76,downtrend,directional filter (downtrend)
+2025-10-04T17:05:07.200275,aggressive,supply,61954.22,downtrend,score below threshold (FAST)
+2025-10-04T17:06:18.555809,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:06:18.557811,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:06:18.558806,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:06:18.559807,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:06:18.560808,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:06:18.561806,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:06:18.562808,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.847062,trend_follow,demand,60391.97,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.848060,trend_follow,demand,59907.55,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.850028,trend_follow,demand,60603.15,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.851028,trend_follow,demand,61396.01,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.852036,trend_follow,demand,61204.78,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.853029,trend_follow,demand,60814.36,downtrend,directional filter (downtrend)
+2025-10-04T17:07:21.854037,trend_follow,demand,60821.54,downtrend,directional filter (downtrend)

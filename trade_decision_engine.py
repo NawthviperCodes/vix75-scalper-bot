@@ -273,7 +273,7 @@ def trade_decision_engine(
 
         return {
             "side": side,
-            "entry": candle.close,
+            "entry": zone_price,  # Changed from candle.close
             "sl": wick_sl,
             "tp": tp,
             "zone": zone_price,
@@ -429,6 +429,19 @@ def trade_decision_engine(
             # Determine trade trend_type: if zone aligns with H1 trend then trend_follow else counter_trend
             trade_trend_type = "trend_follow" if ((zone_type == "demand" and trend == "uptrend") or (zone_type == "supply" and trend == "downtrend")) else "counter_trend"
 
+            if trend == "uptrend" and zone_type == "supply":
+                send_telegram_message(
+                    f"⛔ Skipped SELL setup — uptrend only ({zone_type} zone at {zone_price:.2f})"
+                )
+                log_rejection("directional filter (uptrend)", zone_type, zone_price, strategy_mode, trend)
+                continue
+
+            if trend == "downtrend" and zone_type == "demand":
+                send_telegram_message(
+                    f"⛔ Skipped BUY setup — downtrend only ({zone_type} zone at {zone_price:.2f})"
+                )
+                log_rejection("directional filter (downtrend)", zone_type, zone_price, strategy_mode, trend)
+                continue
             # ----------------- invalidation + flip
             if touch_number >= 4:
                 send_telegram_message(
